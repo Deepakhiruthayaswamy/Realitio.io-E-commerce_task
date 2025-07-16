@@ -36,7 +36,7 @@ const Footer = () => {
       <div className="flex flex-col items-center text-center">
         <hr className="border-gray-400 w-full max-w-m mb-4" />
         <p className="text-sm text-gray-700">
-          © 2024 Shopping E-Cart — All Rights Reserved
+          © 2025 Shopping E-Cart — All Rights Reserved
         </p>
       </div>
     </div>
